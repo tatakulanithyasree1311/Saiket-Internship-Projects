@@ -118,10 +118,10 @@ To strengthen JavaScript fundamentals like DOM manipulation, event handling, and
 ## Task 3 - Blog App
 ![Blog App](assets/images/T3.jpeg)
 
-### Task 2 - Number Guessing Game
+### Task 4 - Number Guessing Game
 ![Number GUuessing Game](assets/images/T4.jpeg)
 
-## Task 4 - Contact Book
+## Task 5 - Contact Book
 ![Contact Book](assets/images/T5.jpeg)
 
 
